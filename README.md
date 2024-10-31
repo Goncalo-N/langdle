@@ -17,6 +17,10 @@ Langdle is a programming language learning game inspired by Wordle. The game off
 - **React**: A JavaScript library for building user interfaces.
 - **CSS**: For styling and layout to create an engaging user experience.
 
+
+## Live Demo
+- **Vercel**: https://langdle-nine.vercel.app/
+
 ## Installation
 
 1. Clone the repository:
