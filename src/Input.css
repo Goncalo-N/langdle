@@ -1,0 +1,37 @@
+form {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  input {
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+    padding: 0 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+    transition: border-color 0.3s ease;
+  }
+  
+  input:focus {
+    outline: none;
+    border-color: #6aaa64; /* Green */
+  }
+  
+  button {
+    height: 40px;
+    font-size: 16px;
+    background-color: #6aaa64; /* Green */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #5b8c4a; /* Darker Green */
+  }
+  
